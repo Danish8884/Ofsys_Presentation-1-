@@ -70,8 +70,8 @@ Sales-Analytics-Dashboard/
 ├── README.md
 ├── Sales_Analytics_Dashboard.xlsx
 │
-└── Images/
-    ├── <img width="1693" height="929" alt="ChatGPT Image Sep 15, 2026, 09_19_41 AM" src="https://github.com/user-attachments/assets/4daf231e-6fd8-4acc-be0c-74efa97d99ce" />
-.png
-    └── <img width="1702" height="690" alt="15 09 2026_09 14 34_REC" src="https://github.com/user-attachments/assets/542193c3-e726-4977-8eba-30b415a61b14" />
-.png
+└── <img width="1693" height="929" alt="ChatGPT Image Sep 15, 2026, 09_19_41 AM" src="https://github.com/user-attachments/assets/27ca40a1-6d1e-4c9a-a422-3fb1b35f8ccd" />
+<img width="1702" height="690" alt="15 09 2026_09 14 34_REC" src="https://github.com/user-attachments/assets/e95e6233-b032-4f4d-a5b4-7bcdccdd00b8" />
+/
+    ├── Sales_Analytics_Dashboard.png
+    └── Sales_Data.png
